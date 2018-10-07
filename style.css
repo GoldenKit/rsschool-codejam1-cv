@@ -1,5 +1,5 @@
 body{
-background-color: moccasin;
+background: linear-gradient(45deg, moccasin, darksalmon);
 max-width: 1024px;
 margin: 0 auto;
 }
@@ -9,10 +9,5 @@ h1{
   font-size: 60px;
   color: skyblue ;
   text-align: center;
-  text-shadow: 1px 1px 2px black, 0 0 1em mediumblue;
-}
-li{
-font-size: 30px;
-color: lime;
-text-align: justify;
+  text-shadow: 1px 1px 2px black, 0 0 1em yellow;
 }
