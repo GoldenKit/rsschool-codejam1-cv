@@ -1,0 +1,18 @@
+body{
+background: linear-gradient(45deg, moccasin, darksalmon);
+max-width: 1024px;
+margin: 0 auto;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 60px;
+  color: skyblue;
+  text-align: center;
+  text-shadow: 1px 1px 2px black, 0 0 1em yellow;
+}
+li{
+font-size: 30px;
+color: royalblue ;
+text-align: justify;
+}
